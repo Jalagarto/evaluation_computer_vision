@@ -1,10 +1,9 @@
 # evaluation_computer_vision
 metric calculations to evaluate
 
-| :zap:        Ignore at your own risk!   |
+| :zap:    This repo is not ready yet!    |
 |-----------------------------------------|
 
-This repo is not ready yet!
 
 ## Metrics to Develop:
 * Accuracy
