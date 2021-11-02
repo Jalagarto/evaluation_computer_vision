@@ -1,7 +1,9 @@
 # evaluation_computer_vision
 metric calculations to evaluate
 
-## Metrics to Evaluate:
+This repo is not ready yet!
+
+## Metrics to Develop:
 * Accuracy
 * AP
 * Recall
